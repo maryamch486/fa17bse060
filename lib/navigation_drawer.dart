@@ -52,7 +52,7 @@ class _HomePageState extends State<HomePage> {
                       child: Text(
                         'Hard',
                         style: TextStyle(
-                          color: Colors.white,
+                          color: Colors.yellow,
                           fontSize: 20.0,
                         ),
                       ),
