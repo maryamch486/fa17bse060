@@ -16,15 +16,15 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return new SplashScreen(
-        seconds: 14,
+        seconds: 60,
         navigateAfterSeconds: new AfterSplash(),
         title: new Text('FA17_BSE_060',
           style: new TextStyle(
               fontWeight: FontWeight.bold,
               fontSize: 20.0
           ),),
-        image: new Image.network('https://www.pinterest.com/pin/838514024348733983/'),
-        backgroundColor: Colors.white,
+        image: new Image.network('https://i0.wp.com/www.islamicinsights.com/wp-content/uploads/hijab_silouette.jpg?resize=780%2C470&ssl=1'),
+        backgroundColor: Colors.green,
         styleTextUnderTheLoader: new TextStyle(),
         photoSize: 100.0,
         onClick: ()=>print("Flutter Egypt"),
