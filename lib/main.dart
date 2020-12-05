@@ -23,7 +23,7 @@ class _MyAppState extends State<MyApp> {
               fontWeight: FontWeight.bold,
               fontSize: 20.0
           ),),
-        image: new Image.network('https://i.imgur.com/TyCSG9A.png'),
+        image: new Image.network('https://www.pinterest.com/pin/838514024348733983/'),
         backgroundColor: Colors.white,
         styleTextUnderTheLoader: new TextStyle(),
         photoSize: 100.0,
