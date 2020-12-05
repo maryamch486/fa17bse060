@@ -10,7 +10,7 @@ class Hard extends StatelessWidget {
             child: Text(
               'Hard',
               style: TextStyle(
-                color: Colors.white,
+                color: Colors.green,
                 fontSize: 20.0,
                 fontWeight: FontWeight.bold,
               ),
